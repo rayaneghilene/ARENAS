@@ -36,14 +36,14 @@ Here are the models i tried:
 I tried a Random Forest Classifier to test its performance on the data and here are the results
 
 
-![Test results](/Images/rfc_results10.png)
+![Test results](/DSML_Research_Project//Images/rfc_results10.png)
 
 #### 2. [SVM Hate speech classification](/DSML_Research_Project/SVM_classification.ipynb)
 
 Then I tried a support vector Machine(SVM) to test its performance on the data and here are the results
 
 
-![Test results](/Images/svm_results10.png)
+![Test results](/DSML_Research_Project//Images/svm_results10.png)
 
 
 
@@ -52,7 +52,7 @@ Then I tried a support vector Machine(SVM) to test its performance on the data a
 Then I tried a Multinomial Naive Bayes to test its performance on the data and here are the results
 
 
-![Test results](/Images/Nb_results10.png)
+![Test results](/DSML_Research_Project//Images/Nb_results10.png)
 
 
 #### 4. [Gradient_boosting Hate speech classification](/DSML_Research_Project/Gradient_boosting.ipynb)
@@ -60,7 +60,7 @@ Then I tried a Multinomial Naive Bayes to test its performance on the data and h
 Then I tried a Gradient Boosting to test its performance on the data and here are the results
 
 
-![Test results](/Images/xgb_results10.png)
+![Test results](/DSML_Research_Project//Images/xgb_results10.png)
 
 
 #### 5. [Logistic Regression Hate speech classification](/DSML_Research_Project/Logistic_regression.ipynb)
@@ -68,7 +68,7 @@ Then I tried a Gradient Boosting to test its performance on the data and here ar
 Then I tried Logistic Regression to test its performance on the data and here are the results
 
 
-![Test results](/Images/LR_results10.png)
+![Test results](/DSML_Research_Project/Images/LR_results10.png)
 
 ### Fine-tuning of a GPT-2 Model
 
