@@ -9,6 +9,10 @@ The objective of ARENAS is to characterize, measure, and understand the role of 
 This research project will be conducted in collaboration with some members
 of the  [ARENAS European project](https://arenasproject.eu/).
 
+## Structure
+The 2 main components of the project are:
+- ML approaches including traditional ML models to tackle Extremist narrative detection (e.g., Naive Bayes, Decision Trees, K-Nearest Neighbors, Logistic Regression, Random Forest, etc.)
+- DL approaches including more sophisticated methodologies (e.g., Llama, Bert, etc.)
 
 ## Collaborators
 
