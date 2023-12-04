@@ -12,3 +12,6 @@
 ----> The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English
 - [NoRoomForHate_SUD](https://github.com/rayaneghilene/ARENAS_Automatic_Extremist_Analysis/blob/main/Bibliographic%20resources/NoRoomForHate_SUD.pdf)
 ---> No room for hate: What research about socially unacceptable discourse taught us about collaboration?
+
+- [Additional_ressources](https://github.com/rayaneghilene/ARENAS_Automatic_Extremist_Analysis/blob/main/Bibliographic%20resources/ressources.txt)
+---> Additional ressources for LLMs finetuning 
