@@ -1,0 +1,10 @@
+# Fine tuning Finetuning Open-Source LLMs
+link: https://www.youtube.com/watch?v=gs-IDg-FoIQ 
+
+
+# LLMs for Everything and Everyone! - Sebastian Raschka - Lightning AI
+link: https://www.youtube.com/watch?v=B1RSE73RdRE&t=120s
+
+
+# Research Papers (October 2023) A Potential Successor to RLHF for Efficient LLM Alignment and the Resurgence of CNNs
+link: https://magazine.sebastianraschka.com/p/research-papers-october-2023
