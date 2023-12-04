@@ -15,3 +15,5 @@
 
 - [Additional_ressources](https://github.com/rayaneghilene/ARENAS_Automatic_Extremist_Analysis/blob/main/Bibliographic%20resources/ressources.txt)
 ---> Additional ressources for LLMs finetuning 
+
+- [LLAMA_research_paper](https://github.com/rayaneghilene/ARENAS_Automatic_Extremist_Analysis/blob/main/Bibliographic%20resources/2302.13971.pdf)
