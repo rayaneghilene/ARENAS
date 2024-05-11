@@ -27,10 +27,10 @@ To run entailment experiments on your dataset, navigate to the folder containing
 python entailment_experiment.py \   
     --candidate_labels 'label1' 'label2' \ 
     --dataset_path 'PATH_TO_YOUR_DATASET' \
-    --model_name \                    # ('roberta' or 'bart')
-    --device \                        # Device specifier (0 or 1). 
-    --progress_bar \                  # 'progress-bar-on' or 'progress-bar-off' (default)
-    --hypothesis_template             # specify the hypothesis template
+    --model_name 'roberta' \                    # ('roberta' or 'bart')
+    --device 0 \                                # Device specifier (0 or 1). 
+    --progress_bar 'progress-bar-on'\           # 'progress-bar-on' or 'progress-bar-off' (default)
+    --hypothesis_template 'This text is {}'     # specify the hypothesis template
 
 ```
 
@@ -50,10 +50,10 @@ python GloVe_Masking.py \
     --candidate_labels 'label1' 'label2' \ 
     --dataset_path 'PATH_TO_YOUR_DATASET' \
     --glove_embeddings_path 'PATH_TO_THE_GLOVE_EMBEDDINGS_FILE' \
-    --model_name \                    # ('roberta' or 'bart')
-    --device \                        # Device specifier (0 or 1). 
-    --progress_bar \                  # 'progress-bar-on' or 'progress-bar-off' (default)
-    --hypothesis_template             # specify the hypothesis template
+    --model_name 'roberta' \                  # ('roberta' or 'bart')
+    --device 0 \                              # Device specifier (0 or 1). 
+    --progress_bar 'progress-bar-on' \        # 'progress-bar-on' or 'progress-bar-off' (default)
+    --hypothesis_template 'This text is {}    # specify the hypothesis template
 
 ```
 
