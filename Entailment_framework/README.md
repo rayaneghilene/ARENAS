@@ -57,6 +57,20 @@ python GloVe_Masking.py \
 
 ```
 
+
+### Quick experiments
+For experiments on small datasets use the provided  [Jupyter Notebook](https://github.com/rayaneghilene/ARENAS_Automatic_Extremist_Analysis/blob/main/Entailment_framework/Tests.ipynb)
+A Subset of the **Davidson** dataset is provided with the code
+```
+@inproceedings{davidson2017automated,
+	title        = {Automated Hate Speech Detection and the Problem of Offensive Language},
+	author       = {Thomas Davidson and Dana Warmsley and Michael W. Macy and others},
+	year         = 2017,
+	booktitle    = {Proceedings of the Eleventh International Conference on Web and Social Media, {ICWSM}},
+	publisher    = {{AAAI} Press},
+}
+```
+
 ## Dataset
 
 Your dataset should include two columns ```text``` for the text and ```class``` for the labels/classes. If you want to get the unique labels in the dataset, run the following command line:
