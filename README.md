@@ -12,7 +12,7 @@ of the  [ARENAS European project](https://arenasproject.eu/).
 ## Structure
 The 2 main components of the repository correspond to our papers:
 - Machine Learning is heading to the SUD (Socially Unacceptable Discourse) analysis: from Shallow Learning to Large Language Models to the rescue, where do we stand? (Benchmark)
-- Analysis of Socially Unacceptable Discourse with Zero-shot Learning
+- Analysis of Socially Unacceptable Discourse with Zero-shot Learning (Entailment framework)
 
 ## Collaborators
 
