@@ -10,20 +10,20 @@ This research project will be conducted in collaboration with some members
 of the  [ARENAS European project](https://arenasproject.eu/).
 
 ## Structure
-The 2 main components of the project are:
-- ML approaches including traditional ML models to tackle Extremist narrative detection (e.g., Naive Bayes, Decision Trees, K-Nearest Neighbors, Logistic Regression, Random Forest, etc.)
-- DL approaches including more sophisticated methodologies (e.g., Llama, Bert, etc.)
+The 2 main components of the repository correspond to our papers:
+- Machine Learning is heading to the SUD (Socially Unacceptable Discourse) analysis: from Shallow Learning to Large Language Models to the rescue, where do we stand? (Benchmark)
+- Analysis of Socially Unacceptable Discourse with Zero-shot Learning
 
 ## Collaborators
 
 Here are the collaborators who have contributed to this project:
 
-- [Rayane Ghilene](https://github.com/rayaneghilene)
-- [Michele LINARDI](https://github.com/mlinardiCYU)
-- [Dimitra NIAOURI](https://github.com/diniaouri)
+- [GHILENE Rayane](https://github.com/rayaneghilene)
+- [LINARDI Michele](https://github.com/mlinardiCYU)
+- [NIAOURI Dimitra](https://github.com/diniaouri)
 
 ## Contact
-If you have any questions, please don't hesitate to contact me at rayane.ghilene@ensea.fr.
+If you have any questions, please don't hesitate to contact us at rayane.ghilene@ensea.fr and dimitra.niaouri@cyu.fr.
 
 ## License
 These resources can be used for research purposes and cannot be redistributed. Please cite the corresponding publication when publishing.
