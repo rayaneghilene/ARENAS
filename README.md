@@ -13,11 +13,6 @@ of the  [ARENAS European project](https://arenasproject.eu/).
 The 2 main components of the project are:
 - ML approaches including traditional ML models to tackle Extremist narrative detection (e.g., Naive Bayes, Decision Trees, K-Nearest Neighbors, Logistic Regression, Random Forest, etc.)
 - DL approaches including more sophisticated methodologies (e.g., Llama, Bert, etc.)
-  
-The project is further structured based on the different subparts of it: 
-- Data_analysis: includes the analyses made on the datasets for exploratory and explanatory purposes.
-- Data_extraction: includes the user ID extraction from tweet IDs on X.
-- Data_parsing: includes the code for parsing several data used.
 
 ## Collaborators
 
